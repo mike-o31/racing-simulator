@@ -1,0 +1,28 @@
+.start-button {
+	width: 8rem;
+	border: 2px solid black;
+	margin: 0 0.5rem;
+	padding: 0.5rem;
+	font-weight: 600;
+}
+
+.start-button:active {
+	background-color: rgb(185, 184, 184);
+}
+
+.start-button:hover {
+	cursor: pointer;
+}
+
+.racers {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.racer {
+	width: 7rem;
+	text-align: center;
+	border: 2px solid black;
+	margin: 0.5rem;
+}
