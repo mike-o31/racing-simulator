@@ -1,4 +1,7 @@
 Race Simulator
+#How To Run
+Install all dependencies for both the frontend and backend. Run npm start on backend first, then after that starts, run npm start on the frontend.
+
 #Description
 The project allows a user to simulate races between 2 to 10 different 'racers' as many times as they want, while keeping track of the winner of each race. Once you stop the server, all race data is lost.
 
