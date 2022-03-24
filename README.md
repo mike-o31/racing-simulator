@@ -1,4 +1,5 @@
 Race Simulator
+
 #How To Run
 Install all dependencies for both the frontend and backend. Run npm start on backend first, then after that starts, run npm start on the frontend.
 
